@@ -7,7 +7,7 @@
  */
 
 #import "SORelativeDateTransformer.h"
-#import <TTTLocalizedPluralString/TTTLocalizedPluralString.h>
+#import <../3rdParty/TTTLocalizedPluralString/TTTLocalizedPluralString.h>
 
 @implementation SORelativeDateTransformer
 
